@@ -1,8 +1,11 @@
-## [Your Name] Porfolio
+## Kordell Person Portfolio
+
+# Brief Introduction
+
+Hi, I'm Kordell, an IT graduate with a profound interest in technology and dedication to solving complex problems.
 
 # Portfolio
-
-Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [mention key skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
+My Journey in IT Support has led me to develop a passion for Cyber Security and I am currently seeking a challenging position that leverages my Blue teaming skills and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
 
 # Project Overview 
@@ -14,9 +17,9 @@ Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a ch
 
 
 # Certifications 
-List our your certifications and/or link to them. Also include the ones you plan on doing!
+List of certifications. Also included the ones planned on doing!
 
-|     Certification     |               Completed?               |     Link       |
-| --------------------  | -------------------------------------- | ---------------| 
-| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
+|     Certification     |               Completed                |  
+| --------------------  | -------------------------------------- | 
+| CompTIA Security+     |                05/01/24                | 
 
